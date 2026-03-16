@@ -41,7 +41,7 @@ https://github.com/simpandechristine-create/christine-editor/releases/latest
 
 ## 📷 Screenshot
 
-![Christine Editor](editor-screenshot.png)
+![Christine Editor](screenshot.png)
 
 
 ## 👩‍💻 Author
