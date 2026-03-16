@@ -1,31 +1,55 @@
 # Christine Editor
 
-Christine Editor is a lightweight code editor built with Node.js.
+A lightweight and simple code editor built with Node.js for web developers.
 
-# Features
-- Simple and clean interface
+
+
+## 🚀 Features
+
+- Clean and simple interface
 - Fast code editing
-- Designed for web developers
-- Easy Windows installation
+- Lightweight and easy to use
+- Designed for HTML, CSS, and JavaScript development
+- Easy installation on Windows
 
-## Download
+
+
+## 📥 Download
 
 Download the latest version here:
-https://github.com/yourusername/christine-editor/releases
 
-# Installation
+https://github.com/simpandechristine-create/christine-editor/releases/latest
 
-1. Download ChristineEditorSetup.exe
+
+## 🖥 Installation
+
+1. Download *Christine.Editor.Setup.1.0.0.exe*
 2. Run the installer
-3. Follow the setup instructions
+3. Follow the installation instructions
+4. Launch *Christine Editor*
 
-# Built With
+
+
+## 🛠 Built With
 
 - Node.js
 - HTML
 - CSS
 - JavaScript
 
-# Author
 
-Christine Simpande
+
+## 📷 Screenshot
+
+(Add a screenshot of your editor here later)
+
+
+## 👩‍💻 Author
+
+*Christine Simpande*
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
